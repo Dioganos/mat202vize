@@ -1,0 +1,2 @@
+- BUders videoları — sayfadaki videoları yalnız BUders kanal/site içeriğiyle değiştir, youtube, buders → task-buders-videolar.md
+- Vize sitesi yeniden kurulum — slayt, soru, buders, son sayfa, yeniden oluştur → task-vize-yeniden.md
